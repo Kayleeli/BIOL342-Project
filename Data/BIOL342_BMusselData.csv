@@ -1,0 +1,41 @@
+GeneralL,LabelID,BandBP,SpeciesID,Length.mm,Width.mm,Height.mm,Coloration,Slope.degree,Aspect.degree
+South,S01,126,M.galloprovincialis,19.4,11.72,7.53,blue/black,28,201
+South,S02,180,M. edulis,13.94,7.91,5.6,blue/black,40,166
+South,S03,x,Unidentified,24.48,13.17,9.19,blue/black,41,182
+South,S04,x,Unidentified,21.19,11.08,8.16,blue/black,33,200
+South,S05,180,M. edulis,20.94,11.25,7.89,blue/black,30,192
+South,S06,126,M.galloprovincialis,19.99,10.94,7.45,blue/black,28,202
+South,S07,x,Unidentified,24.61,13.31,9.24,blue/black,40,200
+South,S08,126,M.galloprovincialis,16.6,9.31,6.12,blue/black,29,165
+South,S09,180,M. edulis,11.32,6.69,4.67,gold/brown,30,201
+South,S10,168,M. trossulus,12.89,7.41,4.77,blue/black,44,200
+North,N01,x,Unidentified,16.35,8.75,5.57,blue/black,42,2
+North,N02,126,M.galloprovincialis,11.78,6.4,5.23,blue/black,50,4
+North,N03,126,M.galloprovincialis,15.71,8.38,6.52,blue/black,21,342
+North,N04,126,M.galloprovincialis,15.68,8.16,5.83,blue/black,33,12
+North,N05,126,M.galloprovincialis,11.53,6.71,5.4,blue/black,41,353
+North,N06,x,Unidentified,17.13,9.87,7.43,blue/black,45,2
+North,N07,168,M. trossulus,9.02,5.12,4.35,gold/brown,51,21
+North,N08,x,Unidentified,21.98,9.52,9.54,blue/black,20,1
+North,N09,x,Unidentified,23.87,13.11,10.23,blue/black,39,358
+North,N10,x,Unidentified,21.81,11.06,8.43,blue/black,40,10
+West,W01,168,M. trossulus,13.86,8.34,5.29,blue/black,34,288
+West,W02,180,M. edulis,13.4,7.2,5.8,blue/black,21,287
+West,W03,x,Unidentified,18.3,10.52,6.66,blue/black,24,304
+West,W04,x,Unidentified,16.53,9.68,7.67,blue/black,20,297
+West,W05,126,M.galloprovincialis,16.82,9.82,5.95,blue/black,36,284
+West,W06,126,M.galloprovincialis,15.95,8.59,6.23,blue/black,36,248
+West,W07,126,M.galloprovincialis,12.85,7.56,5.1,blue/black,33,286
+West,W08,126,M.galloprovincialis,11.6,7.03,4.65,blue/black,45,260
+West,W09,x,Unidentified,22.32,13.21,8.07,blue/black,40,270
+West,W10,126,M.galloprovincialis,23.27,10.89,9.8,blue/black,35,309
+East,E01,x,Unidentified,18.85,10.25,8.18,blue/black,20,93
+East,E02,x,Unidentified,18.08,9.76,6.7,blue/black,20,81
+East,E03,x,Unidentified,21.74,11.77,8.69,blue/black,44,110
+East,E04,126,M.galloprovincialis,10.51,6.54,4.32,gold/brown,43,110
+East,E05,168,M. trossulus,8.57,5.24,3.96,blue/black,38,73
+East,E06,126,M.galloprovincialis,12.69,7.06,5.31,blue/black,28,110
+East,E07,168,M. trossulus,11.2,6.85,4.39,blue/black,23,88
+East,E08,126,M.galloprovincialis,15.66,8.81,6.39,blue/black,51,101
+East,E09,126,M.galloprovincialis,15.84,8.57,6.63,blue/black,50,112
+East,E10,x,Unidentified,18.41,11.32,8.04,blue/black,30,95
